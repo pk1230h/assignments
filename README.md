@@ -1,8 +1,19 @@
 # Assignments
-dev technologies assigments
 
+Dev technologies assignments
 
-## Assignment 4 - ASCIINEMA.org
-This assignment is to test your ability to follow through with documentation and independently learn a new tool.
+## Assignment 4
 
-Asciinema video recording: https://asciinema.org/a/542412
+Assignment link: [Assignment4](Assignment4/readme.md)
+
+## Assignment 5
+
+Assignment link: [Assignment5](Assignment5/readme.md)
+
+## Assignment 6
+
+Assignment link: [Assignment6](Assignment6/readme.md)
+
+## Assignment 7
+
+Assignment link: [Assignment7](Assignment7/readme.md)
