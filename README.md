@@ -25,14 +25,16 @@ Result link: [Assignment5](Assignment5/result.md)
 
 Create a list of commands that you found useful in this course. You can either create this in an existing repo or create a branch new repo. Using Markdown
 
-Result: [wiki page](https://github.com/pk1230h/assignments/wiki/List-of-Commands)
-
 ### Github Pages
 
 In the same repo, use the same content to create a github page - https://pages.github.com/  
+
+Result: [Assignment6](Assignment6/result.md)
 
 ## Assignment 7 - oh-my-zsh Plugin
 
 Add the mvn plugin in ~/.zshrc file under the plugins section. Open a new terminal and use the alias command and grep to mvn. Pipe the output to wc -l to give the list of commands that the mvn plugin added.
 
 You can use vi and leverage asscinema to capture the step/commands or just create a video. Or just provide the commands and the ouptput.
+
+Result link: [Assignment7](Assignment7/result.md)
