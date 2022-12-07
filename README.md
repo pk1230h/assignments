@@ -2,39 +2,18 @@
 
 Dev technologies assignments
 
+## Assignment 4
 
-## Assignment 4 - ASCIINEMA.org
+Assignment link: [Assignment4](Assignment4/readme.md)
 
-This assignment is to test your ability to follow through with documentation and independently learn a new tool.</br>
+## Assignment 5
 
-Result link: [Assignment4](Assignment4/result.md)
+Assignment link: [Assignment5](Assignment5/readme.md)
 
+## Assignment 6
 
-## Assignment 5 - Jenkins CLI/Rest API
+Assignment link: [Assignment6](Assignment6/readme.md)
 
-Trigger a simple Jenkins Job - Say Hello World on the Execute Shell - Via a) REST API using CURL b) using Jenkins CLI </br>
+## Assignment 7
 
-- https://www.jenkins.io/doc/book/managing/cli/
-- https://www.jenkins.io/doc/book/using/remote-access-api/
-
-Result link: [Assignment5](Assignment5/result.md)
-
-## Assignment 6 - Github Wiki/Github Pages
-
-### Wiki
-
-Create a list of commands that you found useful in this course. You can either create this in an existing repo or create a branch new repo. Using Markdown
-
-### Github Pages
-
-In the same repo, use the same content to create a github page - https://pages.github.com/  
-
-Result: [Assignment6](Assignment6/result.md)
-
-## Assignment 7 - oh-my-zsh Plugin
-
-Add the mvn plugin in ~/.zshrc file under the plugins section. Open a new terminal and use the alias command and grep to mvn. Pipe the output to wc -l to give the list of commands that the mvn plugin added.
-
-You can use vi and leverage asscinema to capture the step/commands or just create a video. Or just provide the commands and the ouptput.
-
-Result link: [Assignment7](Assignment7/result.md)
+Assignment link: [Assignment7](Assignment7/readme.md)
